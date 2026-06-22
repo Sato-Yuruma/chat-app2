@@ -154,3 +154,9 @@
 .hidden {
   display: none;
 }
+
+.message-image {
+  width: 300px;
+  height: auto;
+  display: block;
+}
